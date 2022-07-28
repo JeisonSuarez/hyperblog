@@ -1,3 +1,9 @@
 body {
     text-align: center;
 }
+
+.container {
+    border: 2 px;
+    background: #122133;
+    text-align: center;
+}
