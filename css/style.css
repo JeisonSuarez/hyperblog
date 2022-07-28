@@ -8,6 +8,11 @@ body {
     text-align: center;
 }
 
+<<<<<<< HEAD
 header{
     background-color: aqua;
+=======
+header {
+    background-color: blueviolet;
+>>>>>>> Cabecera
 }
